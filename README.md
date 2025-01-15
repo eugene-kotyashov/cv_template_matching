@@ -7,3 +7,5 @@ Shell command to build and run the executable:
 ```
 ./build.sh; ./build/./build/orb_template   
 ```
+Sample output with 2 windows:
+![Application output windows](shot.png)
